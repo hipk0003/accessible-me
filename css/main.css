@@ -81,3 +81,6 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+html {
+  scroll-behavior: smooth;
+}
